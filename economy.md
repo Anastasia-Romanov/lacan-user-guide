@@ -39,6 +39,7 @@ Developers give 0 fucks about the quality of their bot.
 
 - ![image](https://user-images.githubusercontent.com/86816930/133687011-dbb8a06a-f4fc-4db6-8ec7-f2071ff3af6a.png)  Because that's definitely 🙄 a car.
 - ![image](https://user-images.githubusercontent.com/86816930/133687721-2379f182-b013-43f0-88dc-22448a237204.png) G e t  f l a s h b a n g e d  l o l.
+- ![image](https://user-images.githubusercontent.com/71782391/133697446-2c38677a-e156-44b7-bb2a-d948394dc397.png) Incapable of checking or preventing duplicate answers.
 - Car names are outdated since they're hardcoded.
 
 ## hangman
