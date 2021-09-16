@@ -16,9 +16,9 @@
 ## message
 
 - Their pointless sfw filter is case-sensitive, "ass" is blacklisted but "Ass" isn't 🙄.
+- Their pointless sfw filter will also ban "innocent" words such as "assembly".
 - Sending a message larger than the embed field limit will result in a 4xx error smh.
 - Attempts to create an invite link without the users permission.
-- Their pointless sfw filter will also ban "innocent" words such as "assembly".
 - Adl is still listed as a developer.
 
 ## ping
