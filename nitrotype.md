@@ -41,3 +41,4 @@
 - Friend request verification type often doesn't work.
 - Car update verification type is slow as hell (albeit, due to nt's cache).
 - After verifying, it requires you to run n.update as a seperate command in order to update your roles in the current server.  Is that necessary lol like ui is a thing.
+- Displays a 500 word essay that discourages the user from reading the command response and ultimately gets frustrated.
