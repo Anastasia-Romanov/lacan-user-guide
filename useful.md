@@ -8,6 +8,10 @@
 ## invite
 
 - Deletes the command message for no reason whatsoever.
+- Guest star:
+![image](https://user-images.githubusercontent.com/71782391/133697052-39bb8eda-1ed5-40f5-bc41-ff2b0bbb56b0.png)
+
+
 
 ## message
 
