@@ -6,5 +6,5 @@
 
 ## leaderboard
 
-- Requires going to some sketchy link that adl probably made.
+- Requires going to some sketchy link that uses adl's/someone else's code.
 
