@@ -6,7 +6,7 @@
 - Using an accuracy below 0 or greater than 100 results in an inaccurate error statement to use "whole, rounded numbers" even with 101, 102, etc
 - Decimal amount of friends means you have none.
 - apparentally `n.cash 0 0 0 0 False piss` doesn't get an error smh my head
-- An actual UI (such as slash commands) has options to only allow intergers or booleans.
+- An actual UI (such as slash commands) has options to only allow integers or booleans.
 
 ## checkbot
 
