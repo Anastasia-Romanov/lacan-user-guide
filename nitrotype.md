@@ -4,8 +4,8 @@
 
 - It requires about a trillion arguments in a specific order which is quite easy to forget.  An actual UI (such as slash commands) would greatly improve this command.
 - Using an accuracy below 0 or greater than 100 results in an inaccurate error statement to use "whole, rounded numbers" even with 101, 102, etc.
-- Decimal amount of friends means you have none.
-- apparentally `n.cash 0 0 0 0 False piss` doesn't get an error smh my head
+- A decimal amount of friends is interpreted as you having none.
+- Apparently `n.cash 0 0 0 0 False piss` doesn't get an error smh my head.
 - An actual UI (such as slash commands) has options to only allow integers or booleans.
 
 ## checkbot
