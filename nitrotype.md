@@ -21,6 +21,7 @@
 
 - Breaks without manage messages.
 - Literally the worst paginator I've ever seen.
+- Incapable of loading images apparentally 
 
 ## register
 
