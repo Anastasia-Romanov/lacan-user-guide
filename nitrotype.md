@@ -38,7 +38,12 @@
 ## team
 
 - Breaks on any team without a description.
-  - Developer says "Oh smh @GoodGradesBoy just stop critizing ahit" "Ill fix it when Ive got enough time to look into it smh literally Nobody besides sou cares about that But because No one wants to see Teams without descriptiond".  Very interesting to see how the developer has interviewed every Nitro Type player ever to be able to draw that astounding conclusion.  Also quite interesting to see how they have a problem with people criticizing broken things.
+  - Developer says
+     > "Oh smh @GoodGradesBoy just stop critizing ahit"
+
+     > "Ill fix it when Ive got enough time to look into it smh literally Nobody besides sou cares about that But because No one wants to see Teams without descriptiond".
+
+    Very interesting to see how the developer has interviewed every Nitro Type player ever to be able to draw that astounding conclusion.  Also quite interesting to see how they have a problem with people criticizing broken things.
   - If I had a dollar for everyone try/except block in that command...
 
 ## verify
