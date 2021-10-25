@@ -32,6 +32,8 @@
   - Opens up the possibility for people to mistakenly register to the wrong account and well imagine if they won a giveaway and the host used n.stats to check the account. RIP them.
   - Opens up the ability for impersonation.
   - "Just run n.id username to find out whether the account is verified or not." because that is ever-so-user-friendly.  Just fix it for christs sake.
+- Is incapable of showing the actual date the account was created and instead just shows the timestamp. ![image](https://user-images.githubusercontent.com/86816930/138635852-74506ffa-dbb6-4e94-8eac-1a98479e3f4a.png)
+
 
 ## team
 
