@@ -1,6 +1,6 @@
 # Problems with commands in the "Nitrotype" category.
 
-## cash
+## ~~cash (removed)~~
 
 - It requires about a trillion arguments in a specific order which is quite easy to forget.  An actual UI (such as slash commands) would greatly improve this command.
 - Using an accuracy below 0 or greater than 100 results in an inaccurate error statement to use "whole, rounded numbers" even with 101, 102, etc.
@@ -8,7 +8,7 @@
 - Apparently `n.cash 0 0 0 0 False piss` doesn't get an error smh my head.
 - An actual UI (such as slash commands) has options to only allow integers or booleans.
 
-## checkbot
+## ~~checkbot (removed)~~
 
 - Graph like never updates.
 
