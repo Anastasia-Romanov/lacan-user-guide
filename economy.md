@@ -1,5 +1,11 @@
 # Issues regarding economy commands.
 
+## bal
+
+- Quality.
+
+  <img align="top" src="https://user-images.githubusercontent.com/86816930/142962190-9722fd2a-2b7e-4851-a03e-f182e59f3bfc.png">
+
 ## buy
 
 - Doesn't respoond if you specify an invalid item ID.
@@ -39,11 +45,6 @@
 - Developers give 0 fucks about the quality of their bot. 
 
   <img align="top" src="https://user-images.githubusercontent.com/86816930/133686651-4a16470f-b017-4ba4-ae98-a1c5eb1e7c6b.png">
-  
-- Quality.
-
-  <img align="top" src="https://user-images.githubusercontent.com/86816930/142962190-9722fd2a-2b7e-4851-a03e-f182e59f3bfc.png">
-
 
 ## guess
 
