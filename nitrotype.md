@@ -22,6 +22,7 @@
 - Breaks without manage messages.
 - Literally the worst paginator I've ever seen.
 - Incapable of loading images apparentally 
+- Never mind this command doesn't respond with anything anyways in the first place smh
 
 ## register
 
