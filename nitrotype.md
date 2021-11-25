@@ -1,6 +1,6 @@
 # Problems with commands in the "Nitrotype" category.
 
-## cash
+## ~~cash (removed)~~
 
 - It requires about a trillion arguments in a specific order which is quite easy to forget.  An actual UI (such as slash commands) would greatly improve this command.
 - Using an accuracy below 0 or greater than 100 results in an inaccurate error statement to use "whole, rounded numbers" even with 101, 102, etc.
@@ -8,7 +8,7 @@
 - Apparently `n.cash 0 0 0 0 False piss` doesn't get an error smh my head.
 - An actual UI (such as slash commands) has options to only allow integers or booleans.
 
-## checkbot
+## ~~checkbot (removed)~~
 
 - Graph like never updates.
 
@@ -33,11 +33,18 @@
   - Opens up the possibility for people to mistakenly register to the wrong account and well imagine if they won a giveaway and the host used n.stats to check the account. RIP them.
   - Opens up the ability for impersonation.
   - "Just run n.id username to find out whether the account is verified or not." because that is ever-so-user-friendly.  Just fix it for christs sake.
+- Is incapable of showing the actual date the account was created and instead just shows the timestamp. ![image](https://user-images.githubusercontent.com/86816930/138635852-74506ffa-dbb6-4e94-8eac-1a98479e3f4a.png)
+
 
 ## team
 
 - Breaks on any team without a description.
-  - Developer says "Oh smh @GoodGradesBoy just stop critizing ahit" "Ill fix it when Ive got enough time to look into it smh literally Nobody besides sou cares about that But because No one wants to see Teams without descriptiond".  Very interesting to see how the developer has interviewed every Nitro Type player ever to be able to draw that astounding conclusion.  Also quite interesting to see how they have a problem with people criticizing broken things.
+  - Developer says
+     > "Oh smh @GoodGradesBoy just stop critizing ahit"
+
+     > "Ill fix it when Ive got enough time to look into it smh literally Nobody besides sou cares about that But because No one wants to see Teams without descriptiond".
+
+    Very interesting to see how the developer has interviewed every Nitro Type player ever to be able to draw that astounding conclusion.  Also quite interesting to see how they have a problem with people criticizing broken things.
   - If I had a dollar for everyone try/except block in that command...
 
 ## verify
