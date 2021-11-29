@@ -8,6 +8,7 @@
 ## invite
 
 - Deletes the command message for no reason whatsoever.
+- Try2Win4Glory is incapable of testing to see if his redirect uri works haha this isn't really a useful command if invalid oauth
 - Guest star:
   
   ![image](https://user-images.githubusercontent.com/71782391/133697052-39bb8eda-1ed5-40f5-bc41-ff2b0bbb56b0.png)
