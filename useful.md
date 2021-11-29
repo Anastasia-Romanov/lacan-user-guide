@@ -3,7 +3,7 @@
 ## help
 
 - Breaks without manage messages.
-- Paginator is horrible, please learn what user experience is, you see more detailed information about the paginator [here](/paginator.md).
+- Paginator is horrible, please learn what user experience is, you can see more detailed information about the paginator [here](/paginator.md).
 
 ## invite
 
