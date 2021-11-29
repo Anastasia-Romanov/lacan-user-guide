@@ -20,7 +20,7 @@
 ## news
 
 - Breaks without manage messages.
-- Literally the worst paginator I've ever seen.
+- Literally the worst paginator I've ever seen, you can see more detailed information about the paginator [here](/paginator.md).
 
 ## register
 
