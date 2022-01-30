@@ -7,7 +7,6 @@
 ## buy
 
 - Doesn't respoond if you specify an invalid item ID.
-- "daily" and weekly" is definitely a clear interface of what an ID could be
 
 ## shop
 
