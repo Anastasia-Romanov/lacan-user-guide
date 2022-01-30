@@ -2,7 +2,7 @@
 
 ## bal
 
-- Test the fucking command and you'll find out glory. (you apparentally are incapable of doing this whenever coding!)
+- Test the command and you'll find out glory. (You're apparently incapable of doing this whenever you work on Lacan!)
 
 ## buy
 
