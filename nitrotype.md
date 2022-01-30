@@ -39,7 +39,7 @@
 
 ## team
 
-- Fix the command to where it actually provides team info.
+- Completely broken, responds with "Couldn't find that team" for valid teams.
   - Developer says
      > "Oh smh @GoodGradesBoy just stop critizing ahit"
 
