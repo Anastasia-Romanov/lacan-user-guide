@@ -22,7 +22,7 @@
 - Breaks without manage messages.
 - Literally the worst paginator I've ever seen, you can see more detailed information about the paginator [here](/paginator.md).
 - Incapable of loading images apparently.
-- Never mind this command doesn't respond with anything anyways in the first place smh
+- Is removed due to it being broken and not responding rather than being fixed.
 
 ## register
 
