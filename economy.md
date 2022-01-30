@@ -2,22 +2,15 @@
 
 ## bal
 
-- Quality.
-
-  <img align="top" src="https://user-images.githubusercontent.com/86816930/142962190-9722fd2a-2b7e-4851-a03e-f182e59f3bfc.png">
+- Test the command and you'll find out glory. (You're apparently incapable of doing this whenever you work on Lacan!)
 
 ## buy
 
 - Doesn't respoond if you specify an invalid item ID.
-- Formatting of literally every part of this command is horrible.
 
 ## shop
 
-- Weekly and daily cars used to reset every 8 hours when the bot restarts.
-  - The "fix" for this involved causing it to display negative numbers.
-  
-  ![image](https://user-images.githubusercontent.com/86816930/138773106-a7e4cca6-7b5b-43b3-a39b-ebee41b7b478.png)
-  ![image](https://user-images.githubusercontent.com/86816930/133685085-972455a1-101e-44f9-92e7-d8d9e5143033.png)
+- Formatting of literally every part of this command is horrible. 
 
 ## daily
 
@@ -72,16 +65,10 @@
 - Often ignores guesses.
 - Always attempts to delete the guess, uses a try/except block to handle when it doesn't have manage messages - no proper permission checking.
 
-## noobguess
-
-- Doesn't respond.
-
 ## typerace
 
 - Color combination is literal eye bleach.
 - Text is often so large that the majority of it is cut off or so small that's it's not easily legible.
--  You can respond with the typed text in a different channel and it will recognize it.
--  Adl, again, has bypasses.
 
 
 
