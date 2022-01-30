@@ -3,7 +3,7 @@
 ## competition
 
 - Dev is incompetent and requires you to type the time unit seperately to the time.
-- doesn't actually work because dev incapable of updating with nitro type's api, same with below command
+- Doesn't actually work because Try2Win4Glory is incapable of updating to the latest version of Nitro Type's API.
 
 ## leaderboard
 
