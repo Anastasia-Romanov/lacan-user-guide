@@ -26,7 +26,7 @@
 
 ## register
 
-- input: why require user to type n.verify when you can provide instructions now
+- Input: Why require the user to type `n.verify` when you can provide instructions here.
 
 ## stats
 
