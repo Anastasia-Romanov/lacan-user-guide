@@ -21,23 +21,25 @@
 
 - Breaks without manage messages.
 - Literally the worst paginator I've ever seen, you can see more detailed information about the paginator [here](/paginator.md).
+- Incapable of loading images apparently.
+- Never mind this command doesn't respond with anything anyways in the first place smh
 
 ## register
 
-- Let's iterate through every item in the db collection 😳.
+- input: why require user to type n.verify when you can provide instructions now
 
 ## stats
 
 - Allows you to @ an unverified user and it'll show the stats for whatever account they're pending verification of.  
   - Opens up the possibility for people to mistakenly register to the wrong account and well imagine if they won a giveaway and the host used n.stats to check the account. RIP them.
   - Opens up the ability for impersonation.
-  - "Just run n.id username to find out whether the account is verified or not." because that is ever-so-user-friendly.  Just fix it for christs sake.
-- Is incapable of showing the actual date the account was created and instead just shows the timestamp. ![image](https://user-images.githubusercontent.com/86816930/138635852-74506ffa-dbb6-4e94-8eac-1a98479e3f4a.png)
+  - "Just run n.id username to find out whether the account is verified or not." - glory says, because that is ever-so-user-friendly.  Just fix it for christs sake.
+- time stamps are a thing and we're still using plaintext to show birthday
 
 
 ## team
 
-- Breaks on any team without a description.
+- Fix the command to where it actually provides team info.
   - Developer says
      > "Oh smh @GoodGradesBoy just stop critizing ahit"
 
@@ -48,8 +50,5 @@
 
 ## verify
 
-- Default verification type involves changing titles or trails, both of which users are likely to change frequently as is.  Opens up the possibility for users to become verified to accounts they don't own.
-- Friend request verification type often doesn't work.
-- Car update verification type is slow as hell (albeit, due to nt's cache).
-- After verifying, it requires you to run n.update as a seperate command in order to update your roles in the current server.  Is that necessary lol like ui is a thing.
-- Displays a 500 word essay that discourages the user from reading the command response and ultimately gets frustrated.
+- Input: After verifying, it requires you to run n.update as a seperate command in order to update your roles in the current server.  Is that necessary lol like ui is a thing.
+- Displays a 500 word **essay** that discourages the user from reading the command response and ultimately gets frustrated.
