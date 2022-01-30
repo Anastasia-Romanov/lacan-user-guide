@@ -34,7 +34,7 @@
   - Opens up the possibility for people to mistakenly register to the wrong account and well imagine if they won a giveaway and the host used n.stats to check the account. RIP them.
   - Opens up the ability for impersonation.
   - "Just run n.id username to find out whether the account is verified or not." - glory says, because that is ever-so-user-friendly.  Just fix it for christs sake.
-- time stamps are a thing and we're still using plaintext to show birthday
+- Discord supports timestamps which provide a much better interface but Lacan still uses plaintext for the users account creation.
 
 
 ## team
