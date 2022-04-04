@@ -70,6 +70,7 @@
 - Color combination is literal eye bleach.
 - Text is often so large that the majority of it is cut off or so small that's it's not easily legible.
 
-
+## vote
+- Voting for the bot is a mere scam no bot currency is given
 
   
