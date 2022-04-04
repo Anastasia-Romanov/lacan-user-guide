@@ -21,6 +21,7 @@
 - Sending a message larger than the embed field limit will result in a 4xx error smh.
 - Attempts to create an invite link without the users permission.
 - Adl is still listed as a developer.
+- Filter is only needed to keep message intent
 
 ## ping
 
